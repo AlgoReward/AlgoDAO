@@ -1,3 +1,8 @@
+/*
+  This file intializes thridweb and export default sdk
+  It's like coonnecting to a database from a server
+*/
+
 import { ThirdwebSDK } from "@3rdweb/sdk";
 import ethers from "ethers";
 
